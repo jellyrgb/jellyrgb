@@ -1,13 +1,14 @@
-### Welcome to my profile! ☺️
+✨ Welcome to my profile! ✨
+=============
 
-# About Me:
+### About Me:
 - 🌱 I'm currently learning computer science.
 - 🇺🇸 I'm in the United States.
 - 🇰🇷 My nationality is South Korea.
 - 🎮 I love to play hardcore games.
 - 💬 Pronouns: she, her
 
-# Languages:
+### Languages:
 ![Static Badge](https://img.shields.io/badge/Java-black?logo=java)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?logo=c&logoColor=white)
