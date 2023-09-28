@@ -2,6 +2,7 @@
 =============
 
 ### About Me:
+- 👩‍💻 My name is Hyomin, and you can call me "Min".
 - 🌱 I'm currently learning computer science.
 - 🇺🇸 I'm in the United States.
 - 🇰🇷 My nationality is South Korea.
