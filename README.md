@@ -14,9 +14,11 @@
 ![Static Badge](https://img.shields.io/badge/OCaml-%23EC6813?logo=ocaml&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Ruby-%23CC342D?logo=ruby)
 
+<!--
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white)
+-->
 
 ### Favorite Tool:
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode&logoColor=white)
