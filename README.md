@@ -4,9 +4,6 @@
 ### About Me:
 - 👩‍💻 My name is Melina.
 - 🌱 I'm currently learning computer science.
-- 🇺🇸 I'm in the United States.
-- 🇰🇷 My nationality is South Korea.
-- 🩷 My favorite language is Java.
 - 🎮 I love to play hardcore games.
 - 💬 Pronouns: she, her
 
@@ -21,14 +18,8 @@
 ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white)
 
-### Favorite Tools:
-![Static Badge](https://img.shields.io/badge/JetBrains-%23000000?logo=jetbrains&logoColor=white)
+### Favorite Tool:
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode&logoColor=white)
-
-![Static Badge](https://img.shields.io/badge/Intellij%20Idea-%23000000?logo=intellijidea&logoColor=white)
-![Static Badge](https://img.shields.io/badge/WebStorm-%23000000?logo=webstorm&logoColor=white)
-![Static Badge](https://img.shields.io/badge/PyCharm-%23000000?logo=pycharm&logoColor=white)
-![Static Badge](https://img.shields.io/badge/RubyMine-%23000000?logo=rubymine&logoColor=white)
 
 
 <!--
