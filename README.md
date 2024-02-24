@@ -2,7 +2,7 @@
 =============
 
 ### About Me:
-- 👩‍💻 My name is Melina.
+- 👩‍💻 My name is Hyomin.
 - 🌱 I'm currently learning computer science.
 - 🎮 I love to play hardcore games.
 - 💬 Pronouns: she, her
