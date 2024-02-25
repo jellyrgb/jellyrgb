@@ -4,7 +4,7 @@
 ### About Me:
 - 👩‍💻 My name is Hyomin.
 - 🌱 My major is computer science.
-- 🎮 I love to play hardcore games.
+- ⚡ Fun fact: I love to play hardcore games.
 - 💬 Pronouns: she, her
 
 ### Languages:
