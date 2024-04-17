@@ -9,7 +9,7 @@
 
 ### Languages:
 ![Static Badge](https://img.shields.io/badge/Java-black?logo=java)
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=social&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?logo=c&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/OCaml-%23EC6813?logo=ocaml&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white)
