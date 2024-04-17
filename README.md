@@ -8,21 +8,19 @@
 - 💬 Pronouns: she, her
 
 ### Languages:
-![Static Badge](https://img.shields.io/badge/Java-black?logo=java)
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=plastic&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?logo=c&logoColor=white)
-![Static Badge](https://img.shields.io/badge/OCaml-%23EC6813?logo=ocaml&logoColor=white)
-![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white)
-
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![Static Badge](https://img.shields.io/badge/OCaml-%23EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
+![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 <!--
 ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white)
 -->
 
-### Favorite Tool:
+### Tools:
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode&logoColor=white)
-
+![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
 
 <!--
 **LoveJelly/LoveJelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
