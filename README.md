@@ -19,8 +19,9 @@
 -->
 
 ### Tools:
-![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white)
 
 <!--
 **LoveJelly/LoveJelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
