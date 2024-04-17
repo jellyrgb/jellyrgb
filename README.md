@@ -7,18 +7,15 @@
 - ⚡ Fun fact: I love to play hardcore games.
 - 💬 Pronouns: she, her
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelJelly&layout=compact)
-
 ### Languages:
 ![Static Badge](https://img.shields.io/badge/Java-black?logo=java)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?logo=c&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/OCaml-%23EC6813?logo=ocaml&logoColor=white)
-![Static Badge](https://img.shields.io/badge/TypeScript-%#3178C6?logo=typescript)
+![Static Badge](https://img.shields.io/badge/TypeScript-%23E34F26?logo=typescript&logoColor=white)
 
 
 <!--
-![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=white)
 -->
