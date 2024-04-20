@@ -23,6 +23,12 @@
 ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white)
 
+### Favorite Game Companies:
+![Static Badge](https://img.shields.io/badge/Riot%20Games-%23EB0029?style=for-the-badge&logo=riotgames&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Rockstar%20Games-%23FCAF17?style=for-the-badge&logo=rockstargames&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Nintendo-%23E60012?style=for-the-badge&logo=nintendo&logoColor=white)
+
+
 <!--
 **LoveJelly/LoveJelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
