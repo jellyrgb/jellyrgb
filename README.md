@@ -1,8 +1,10 @@
 ✨ Welcome to my profile! ✨
 =============
 
+![banner](./images/banner2.jpg)
+
 ### About Me:
-- 👩‍💻 My name is Hyomin.
+- 👋 My name is Hyomin.
 - 🌱 My major is computer science.
 - ⚡ Fun fact: I love to play hardcore games.
 - 💬 Pronouns: she, her
