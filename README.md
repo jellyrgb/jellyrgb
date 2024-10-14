@@ -13,13 +13,17 @@
 ![Static Badge](https://img.shields.io/badge/C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Java-%23000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Tools:
-![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white)
+<br>
+![Static Badge](https://img.shields.io/badge/WebStorm-%23000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![Static Badge](https://img.shields.io/badge/IntellJ%20IDEA-%23000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CLion-%23000000?style=for-the-badge&logo=clion&logoColor=white)
 
 <!--
 ### Favorite Game Companies:
@@ -29,8 +33,6 @@
 -->
 
 <!--
-**LoveJelly/LoveJelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
