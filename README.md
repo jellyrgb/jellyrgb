@@ -1,7 +1,7 @@
 ✨ Welcome to my profile! ✨
 =============
 
-![banner](./images/banner3.png)
+![banner](./images/banner2.png)
 
 ### About Me:
 - 👋 My name is Hyomin.
