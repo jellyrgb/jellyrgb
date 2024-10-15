@@ -6,7 +6,7 @@
 ### About Me:
 - 👋 My name is Hyomin.
 - 🌱 My major is computer science.
-- ⚡ Fun fact: I love to play hardcore games. I am a huge fan of Tony Tony Chopper the "Cotton Candy Lover".
+- ⚡ Fun fact: I love to play hardcore games.
 - 💬 Pronouns: she, her
 
 ### Languages:
