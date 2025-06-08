@@ -1,15 +1,16 @@
-<h1 align="center">✨ Welcome to Hyomin's Profile ✨</h1>
-
+<!-- 🌊 상단 배너 -->
 <p align="center">
-  <a href="https://jellyrgb.github.io">
-    <img src="https://img.shields.io/badge/-🌸 Visit Portfolio -f9a8d4?style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1,FFC0CB,FF69B4&height=160&section=header&text=✨%20Welcome%20to%20Hyomin's%20Profile%20✨&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- 💻 포트폴리오 버튼 -->
+<p align="center">
+  <a href="https://jellyrgb.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/-%20Visit%20My%20Portfolio%20-ffb6c1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
+<!-- ⌨️ 타이핑 애니메이션 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=indigo&height=150&section=header&text=Hi%20There!&fontSize=40" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=EAB308&size=20&center=true&vCenter=true&width=400&lines=Computer+Science+Student;React%2C+Node+Lover;Hardcore+Game+Player" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=👩‍💻+Computer+Science+Student;🎨+Frontend+Dev+with+React+%2F+TS;🎮+Hardcore+Gamer+%7C+Boss%2DBeater!" />
 </p>
