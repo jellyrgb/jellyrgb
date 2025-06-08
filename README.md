@@ -3,6 +3,9 @@
 
 ![banner](./images/banner.jpg)
 
+### 🌐 Portfolio
+[![Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%23FF69B4?style=for-the-badge&logo=vercel&logoColor=white)](https://jellyrgb.github.io)
+
 ### About Me:
 - 👋 My name is Hyomin.
 - 🌱 My major is computer science.
