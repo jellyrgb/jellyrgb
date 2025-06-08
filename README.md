@@ -1,6 +1,6 @@
 <!-- 🌊 상단 배너 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1,FFC0CB,FF69B4&height=160&section=header&text=✨%20Welcome%20to%20Hyomin's%20Profile%20✨&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1,FFC0CB,FF69B4&height=160&section=header&text=✨%20Welcome%20to%20My%20Profile%20✨&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- 💻 포트폴리오 버튼 -->
@@ -12,5 +12,6 @@
 
 <!-- ⌨️ 타이핑 애니메이션 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=👩‍💻+Computer+Science+Student;🎨+Frontend+Dev+with+React+%2F+TS;🎮+Hardcore+Gamer+%7C+Boss%2DBeater!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=👩‍💻+Computer+Science+Student;🎨+Fullstack+Dev+with+React+%2F+TS;🎮+Hardcore+Gamer+%7C+Boss%2DBeater!" />
 </p>
+
